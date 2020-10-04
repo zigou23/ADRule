@@ -32,11 +32,14 @@ HalfLife，规则合并自 EasylistChina、EasylistLite、CJX’sAnnoyance 合�
 [halflife](https://gitee.com/halflife/list/raw/master/ad.txt) & [halflife-ad.txt](adb/halflife-ad.txt)
 
 xinggsf，乘风广告过滤规则 + 视频过滤规则，[乘风规则更新详情](https://bbs.kafan.cn/thread-1866845-1-1.html)
+
 [rule](https://gitee.com/xinggsf/Adblock-Rule/raw/master/rule.txt) & [xinggsf-rule.txt](adb/xinggsf-rule.txt)
+
 [mv](https://gitee.com/xinggsf/Adblock-Rule/raw/master/mv.txt) & [xinggsf-mv.txt](adb/xinggsf-mv.txt)
 
 一、CJX’s Annoyance List (去自推列表)
 https://gitee.com/cjx82630/cjxlist/raw/master/cjx-annoyance.txt
+
 二、CJX’s uBlock list (uBlock 规则)
 https://gitee.com/cjx82630/cjxlist/raw/master/cjx-ublock.txt
 
