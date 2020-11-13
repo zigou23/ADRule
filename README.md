@@ -47,4 +47,4 @@ From
 
 [wsgzao](https://wsgzao.github.io/post/adguard/) / [cjx82630-github](https://github.com/cjx82630/cjxlist) / [[cjx82630-gitee](https://gitee.com/cjx82630/cjxlist) 
 
-[未知](https://raw.githubusercontent.com/mrvivacious/porNo_open_source/master/lists.js) [国内](https://sixproxy.herokuapp.com/https/raw.githubusercontent.com/mrvivacious/porNo_open_source/master/lists.js)
+[未知](https://raw.githubusercontent.com/mrvivacious/porNo_open_source/master/lists.js) [国内](https://cdn.jsdelivr.net/gh/mrvivacious/PorNo-_Porn_Blocker/lists.js)
