@@ -101,9 +101,11 @@ m.850500.com##div.alert-marks:nth-child(23)
 wlan-wwan.com###taobao
 
 
-! 屏蔽视频内icon （暂定
+! 屏蔽视频内icon
 ! 腾讯视频：txp-ui-watermark-mod 爱奇艺：iqp-logo-top logoShowAnimation 优酷： youku-layer-logo
-||iqiyipic.com/common/fix/PCH5_iconfont200831/*$domain=iqiyi.com
-||puui.qpic.cn/vcolumn_pic/0/*/0$domain=v.qq.com
-||i.gtimg.cn/qqlive/images/20170222/qing_224_70.png$domain=v.qq.com
-||ykimg.alicdn.com/product/image/2020-06-11/*$domain=v.youku.com
+! 爱奇艺 ||iqiyipic.com/common/fix/PCH5_iconfont200831/*$domain=iqiyi.com     iqiyi.com##.iqp-logo-top.logoShowAnimation
+iqiyi.com##iqpdiv[class="iqp-logo-top logoShowAnimation"]
+! 腾讯 ||puui.qpic.cn/vcolumn_pic/0/*/0$domain=v.qq.com       ||i.gtimg.cn/qqlive/images/20170222/qing_224_70.png$domain=v.qq.com
+v.qq.com##txpdiv[data-role="txp-ui-watermark-mod"]
+! 优酷 ||ykimg.alicdn.com/product/image/2020-06-11/*$domain=v.youku.com
+youku.com##div[class="youku-layer-logo"]
