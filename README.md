@@ -53,8 +53,8 @@ From
 
 ---
 
-[My own rule](Adguard_myown.txt) [domestic](https://cdn.jsdelivr.net/gh/zigou23/ADList/Adguard_myown.txt)
+[My own rule](Adguard_myown.txt) / [domestic](https://cdn.jsdelivr.net/gh/zigou23/ADList/Adguard_myown.txt)
 
-[domestic video site](https://gitee.com/xinggsf/Adblock-Rule/raw/master/mv.txt) [backup](adb/xinggsf-mv.txt)
+[domestic video site](https://gitee.com/xinggsf/Adblock-Rule/raw/master/mv.txt) / [backup](adb/xinggsf-mv.txt)
 
 
