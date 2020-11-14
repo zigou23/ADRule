@@ -43,8 +43,18 @@ https://gitee.com/cjx82630/cjxlist/raw/master/cjx-annoyance.txt
 二、CJX’s uBlock list (uBlock 规则)
 https://gitee.com/cjx82630/cjxlist/raw/master/cjx-ublock.txt
 
+---
+
 From
 
 [wsgzao](https://wsgzao.github.io/post/adguard/) / [cjx82630-github](https://github.com/cjx82630/cjxlist) / [[cjx82630-gitee](https://gitee.com/cjx82630/cjxlist) 
 
 [未知](https://raw.githubusercontent.com/mrvivacious/porNo_open_source/master/lists.js) [国内](https://cdn.jsdelivr.net/gh/mrvivacious/PorNo-_Porn_Blocker/lists.js)
+
+---
+
+[My own rule](Adguard_myown.txt) [domestic](https://cdn.jsdelivr.net/gh/zigou23/ADList/Adguard_myown.txt)
+
+[domestic video site](https://gitee.com/xinggsf/Adblock-Rule/raw/master/mv.txt) [backup](adb/xinggsf-mv.txt)
+
+
