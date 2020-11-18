@@ -53,7 +53,7 @@ From
 
 ---
 
-[My own rule](Adguard_myown.txt) / [backup](https://cdn.jsdelivr.net/gh/zigou23/ADList/Adguard_myown.txt)
+[My own rule](Adguard_myown.txt) / [backup](https://cdn.jsdelivr.net/gh/zigou23/ADList/Adguard_myown.txt) / [Now](https://sixproxy.herokuapp.com/https/github.com/zigou23/ADList/raw/master/Adguard_myown.txt)
 
 [domestic video site](https://gitee.com/xinggsf/Adblock-Rule/raw/master/mv.txt) / [backup](adb/xinggsf-mv.txt)
 
