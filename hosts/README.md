@@ -1,6 +1,6 @@
 More hosts
 
-googlehosts/hosts
+[googlehosts/hosts](https://github.com/googlehosts/hosts)
 
 Computer `%SystemRoot%\System32\drivers\etc\hosts`
 
