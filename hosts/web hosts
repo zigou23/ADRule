@@ -22,6 +22,22 @@
 151.101.56.133 user-images.githubusercontent.com
 # GitHub End
 
+# CloudFlare Start Dec.15
+1.0.0.1 cloudflare.com
+1.0.0.1 www.cloudflare.com
+1.0.0.1 dash.cloudflare.com
+13.35.36.124 js.stripe.com
+151.101.0.176 m.stripe.network
+# CloudFlare End
+
+--
+--# CloudFlare Start Dec.15
+  104.16.132.229 cloudflare.com
+  104.16.123.96 www.cloudflare.com
+  198.41.214.161 dash.cloudflare.com
+  # CloudFlare End
+
+
 # Amazon AWS Start
 52.219.4.104	s3-ap-northeast-1.amazonaws.com
 54.231.249.17	s3-ap-southeast-2.amazonaws.com
