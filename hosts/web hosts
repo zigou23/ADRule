@@ -30,13 +30,15 @@
 151.101.0.176 m.stripe.network
 # CloudFlare End
 
---
---# CloudFlare Start Dec.15
+---
+  # CloudFlare Start Dec.15
   104.16.132.229 cloudflare.com
   104.16.123.96 www.cloudflare.com
   198.41.214.161 dash.cloudflare.com
+  13.35.36.124 js.stripe.com
+  151.101.0.176 m.stripe.network
   # CloudFlare End
-
+---
 
 # Amazon AWS Start
 52.219.4.104	s3-ap-northeast-1.amazonaws.com
