@@ -45,6 +45,8 @@
 # Microsoft Live
 204.79.197.212 live.com
 40.100.2.98 outlook.live.com
+40.90.136.179 skyapi.onedrive.live.com
+13.107.42.13 onedrive.live.com
 # Microsoft End
 
 
@@ -111,4 +113,8 @@
 104.27.137.174	softsmirror.cf
 # Doubi End
 
+139.159.241.37 bilibili.com
+120.92.143.168 www.bilibili.com
 
+220.181.38.148 baidu.com
+180.101.49.11 www.baidu.com
