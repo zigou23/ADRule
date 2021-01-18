@@ -1,6 +1,6 @@
 More hosts
 
-[googlehosts/hosts](https://github.com/googlehosts/hosts)
+[googlehosts/hosts](https://github.com/googlehosts/hosts)  &you can use from [this](http://tool.chinaz.com/speedtest).
 
 Computer `%SystemRoot%\System32\drivers\etc\hosts`
 
