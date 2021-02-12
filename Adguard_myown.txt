@@ -38,21 +38,6 @@ ke.qq.com###x-tcp-container > txpdiv.player-inject-8549:last-child > div.player-
 u.unipus.cn###layui-layer7
 u.unipus.cn###layui-layer-shade7
 
-! NFmovies
-nfmovies.com#@##adleft
-nfmovies.com#@##adright
-@@||nfmovies.com/pic/tu/a191124001.png$domain=nfmovies.com
-||nfmovies.com/templets/default/images/logos/min/06.png$domain=nfmovies.com
-||nfmovies.com/templets/default/images/logos/06.png$domain=nfmovies.com
-||nfmovies.com/pic/wxgzh_mini.png$domain=nfmovies.com
-||nfmovies.com/pic/wxgzh_mini.png$domain=nfmovies.com
-||nfmovies.com/templets/default/images/load.gif$domain=nfmovies.com
-||cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/2.1.0/fingerprint2.min.js$domain=nfmovies.com,important
-nfmovies.com###player-left > div.myui-player__box.player-fixed:first-child > div.tips.close-box:first-child
-nfmovies.com##div.myui-ra-container.container:nth-child(6)
-nfmovies.com###arLzRBahLfMV
-nfmovies.com##div.hidden-xs
-
 ! w3cschool
 w3cschool.cn###header_index > div.fr.h-right:nth-child(2) > div.fl.mobile:first-child
 w3cschool.cn###header-l > div.try-abox:last-child
@@ -111,3 +96,12 @@ iqiyi.com##iqpdiv[class="iqp-logo-bottom"]
 v.qq.com##txpdiv[data-role="txp-ui-watermark-mod"]
 ! 优酷 ||ykimg.alicdn.com/product/image/2020-06-11/*$domain=v.youku.com
 youku.com##div[class="youku-layer-logo"]
+
+! NFmovies
+nfmovies.com#@##adleft
+nfmovies.com#@##adright
+||nfmovies.com/templets/default/images/load.gif$domain=nfmovies.com
+||cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/2.1.0/fingerprint2.min.js$domain=nfmovies.com,important
+nfmovies.com###arLzRBahLfMV
+nfmovies.com##div.hidden-xs
+nfmovies.com##div.dplayer-logo
