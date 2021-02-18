@@ -97,10 +97,11 @@ v.qq.com##txpdiv[data-role="txp-ui-watermark-mod"]
 ! 优酷 ||ykimg.alicdn.com/product/image/2020-06-11/*$domain=v.youku.com
 youku.com##div[class="youku-layer-logo"]
 
-! NFmovies
+! NFMovies
 nfmovies.com#@##adleft
 nfmovies.com#@##adright
 nfmovies.com###arLzRBahLfMV
 nfmovies.com##div.hidden-xs
 nfmovies.com##div.dplayer-logo
 !||cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/2.1.0/fingerprint2.min.js$domain=nfmovies.com,important
+!wechat ||nfmovies.com/pic/wxgzh_mini.png$domain=nfmovies.com
