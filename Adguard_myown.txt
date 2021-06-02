@@ -97,11 +97,21 @@ v.qq.com##txpdiv[data-role="txp-ui-watermark-mod"]
 ! 优酷 ||ykimg.alicdn.com/product/image/2020-06-11/*$domain=v.youku.com
 youku.com##div[class="youku-layer-logo"]
 
-! NFMovies
+! NFmovies
 nfmovies.com#@##adleft
 nfmovies.com#@##adright
 nfmovies.com###arLzRBahLfMV
 nfmovies.com##div.hidden-xs
 nfmovies.com##div.dplayer-logo
-!||cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/2.1.0/fingerprint2.min.js$domain=nfmovies.com,important
+!||nfmovies.com/templets/default/images/logos/min/06.png$domain=nfmovies.com
+!||nfmovies.com/templets/default/images/logos/06.png$domain=nfmovies.com
+!@@||nfmovies.com/pic/tu/a191124001.png$domain=nfmovies.com
 !wechat ||nfmovies.com/pic/wxgzh_mini.png$domain=nfmovies.com
+nfmovies.com##div:nth-child(23)
+nfmovies.com###note
+!1logo 2暂停广告 3广告被屏蔽弹窗 4启动遮盖图（自定） 5右下广告
+www.zhenbuka2.com##div.yzmplayer-logo
+www.zhenbuka2.com##div#player_pause
+www.zhenbuka2.com##div.jq-toast-wrap
+www.zhenbuka2.com##img[src^="https://bj.bcebos.com/"]
+zhenbuka2.com###note
