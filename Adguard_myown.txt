@@ -110,12 +110,12 @@ nfmovies.com##div.dplayer-logo
 nfmovies.com##div:nth-child(23)
 nfmovies.com###note
 
-! zhenbuka
+! zhenbuka2
 !1logo 2暂停广告 3广告被屏蔽弹窗 4启动遮盖图（自定） 5右下广告
-www.zhenbuka2.com##div.yzmplayer-logo
-www.zhenbuka2.com##div#player_pause
-www.zhenbuka2.com##div.jq-toast-wrap
-www.zhenbuka2.com##img[src^="https://bj.bcebos.com/"]
+zhenbuka2.com##div.yzmplayer-logo
+zhenbuka2.com##div#player_pause
+zhenbuka2.com##div.jq-toast-wrap
+zhenbuka2.com##img[src^="https://bj.bcebos.com/"]
 zhenbuka2.com###note
 !zhenbuka2.com##div:nth-child(14)
 !www.zhenbuka2.com##+js(preventFakeUa, killAdKiller, document.getElementById)
