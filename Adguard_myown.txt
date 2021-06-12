@@ -125,5 +125,5 @@ zhenbuka2.com$$script[data-src="debugger"]
 zhenbuka2.com#$#body { style="overflow-y:hidden;"!important; }
 zhenbuka2.com###yb112
 zhenbuka2.com#@##ad1
-!@@||dns.onenews.vip/alikes.php?id=5479$domain=zhenbuka2.com
+! @@||dns.onenews.vip/alikes.php?id=5479$domain=zhenbuka2.com
 @@||dns.onenews.vip/alikes.php$domain=zhenbuka2.com
