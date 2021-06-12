@@ -110,7 +110,7 @@ nfmovies.com##div.dplayer-logo
 nfmovies.com##div:nth-child(23)
 nfmovies.com###note
 
-!zhenbuka2.com 禁用adguard自带的`AdGuard 基本過濾器`改EasyList 或其它，或者自己改
+! zhenbuka
 !1logo 2暂停广告 3广告被屏蔽弹窗 4启动遮盖图（自定） 5右下广告
 www.zhenbuka2.com##div.yzmplayer-logo
 www.zhenbuka2.com##div#player_pause
@@ -118,7 +118,12 @@ www.zhenbuka2.com##div.jq-toast-wrap
 www.zhenbuka2.com##img[src^="https://bj.bcebos.com/"]
 zhenbuka2.com###note
 !zhenbuka2.com##div:nth-child(14)
+!www.zhenbuka2.com##+js(preventFakeUa, killAdKiller, document.getElementById)
+!防adguard基础屏蔽器屏蔽广告
 @@||mmiyue.com/zhenbuka2/statics/js/guanggao.js
 zhenbuka2.com$$script[data-src="debugger"]
 zhenbuka2.com#$#body { style="overflow-y:hidden;"!important; }
 zhenbuka2.com###yb112
+zhenbuka2.com#@##ad1
+!@@||dns.onenews.vip/alikes.php?id=5479$domain=zhenbuka2.com
+@@||dns.onenews.vip/alikes.php$domain=zhenbuka2.com
