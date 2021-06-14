@@ -103,27 +103,32 @@ nfmovies.com#@##adright
 nfmovies.com###arLzRBahLfMV
 nfmovies.com##div.hidden-xs
 nfmovies.com##div.dplayer-logo
-!||nfmovies.com/templets/default/images/logos/min/06.png$domain=nfmovies.com
-!||nfmovies.com/templets/default/images/logos/06.png$domain=nfmovies.com
-! @@||nfmovies.com/pic/tu/a191124001.png$domain=nfmovies.com
-!wechat ||nfmovies.com/pic/wxgzh_mini.png$domain=nfmovies.com
 nfmovies.com##div:nth-child(23)
 nfmovies.com###note
 
 ! zhenbuka2
-!1logo 2暂停广告 3广告被屏蔽弹窗 4启动遮盖图（自定） 5右下广告
+!1logo 2暂停广告 3广告被屏蔽弹窗 4遮罩 5.6右下广告
 zhenbuka2.com##div.yzmplayer-logo
 zhenbuka2.com##div#player_pause
 zhenbuka2.com##div.jq-toast-wrap
-zhenbuka2.com##img[src^="https://bj.bcebos.com/"]
+zhenbuka2.com##iframe#buffer
 zhenbuka2.com###note
 zhenbuka2.com#?#div:matches-css(width: 320px) 
 !height: 270px;
-!zhenbuka2.com##div:nth-child(14)
-!www.zhenbuka2.com##+js(preventFakeUa, killAdKiller, document.getElementById)
 @@||mmiyue.com/zhenbuka2/statics/js/guanggao.js
+!debugger老有毒了，快烦死了都
 zhenbuka2.com$$script[data-src="debugger"]
 zhenbuka2.com#$#body { style="overflow-y:hidden;"!important; }
 zhenbuka2.com###yb112
 zhenbuka2.com#@##ad1
 @@||dns.onenews.vip/alikes.php$domain=zhenbuka2.com
+
+
+!bukaivip
+bukaivip.com#$#body { style="overflow-y:hidden;"!important; }
+@@||pc.weizhenwx.com/pc/rich-tf.js$domain=bukaivip.com
+@@||pc.weizhenwx.com/pc/beitou-tf.js$domain=bukaivip.com
+bukaivip.com##img[src^="https://bj.bcebos.com/"]
+bukaivip.com##div.tip
+bukaivip.com##iframe#buffer
+bukaivip.com$$script[data-src="debugger"]
