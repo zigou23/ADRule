@@ -122,7 +122,7 @@ zhenbuka2.com#$#body { style="overflow-y:hidden;"!important; }
 zhenbuka2.com###yb112
 zhenbuka2.com#@##ad1
 @@||dns.onenews.vip/alikes.php$domain=zhenbuka2.com
-zhenbuka2.com##img[src^=""https://bj.bcebos.com/]
+zhenbuka2.com##img[src^="https://bj.bcebos.com/"]
 
 !bukaivip
 bukaivip.com#$#body{style="overflow-y:hidden;"!important; }
