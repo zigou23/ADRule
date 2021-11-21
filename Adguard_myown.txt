@@ -133,6 +133,9 @@ zhenbuka3.com#@##ad1
 zhenbuka3.com##div#ad
 @@||dns.onenews.vip/alikes.php$domain=zhenbuka3.com
 https://bj.bcebos.com/im-cs/158007f7fec32833f35541c67793a335.jpg$domain=zhenbuka3.com
+zhenbuka3.com#@#.google-ad
+zhenbuka3.com###hth616
+zhenbuka3.com###HMRichBox
 
 !bukaivip
 bukaivip.com#$#body{style="overflow-y:hidden;"!important; }
