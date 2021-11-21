@@ -113,22 +113,26 @@ nfmovies.com##div:nth-child(23)
 nfmovies.com###note
 
 ! zhenbuka2
-!1logo 2暂停广告 3广告被屏蔽弹窗 4遮罩 5.6右下广告
-zhenbuka2.com##div.yzmplayer-logo
-zhenbuka2.com##div#player_pause
-zhenbuka2.com##div.jq-toast-wrap
-zhenbuka2.com##iframe#buffer
-zhenbuka2.com###note
-zhenbuka2.com#?#div:matches-css(width: 320px) 
+!1logo 2暂停广告 3广告被屏蔽弹窗 4启动遮盖图（自定） 5右下广告
+zhenbuka3.com##div.yzmplayer-logo
+zhenbuka3.com##div#player_pause
+zhenbuka3.com##div.jq-toast-wrap
+!zhenbuka2.com##img[src^="https://bj.bcebos.com/"]
+zhenbuka3.com##iframe#buffer
+!zhenbuka3.com##iframe#install
+!zhenbuka3.com##iframe#Player
+!zhenbuka3.com##td#playleft
+zhenbuka3.com###note
+zhenbuka3.com#?#div:matches-css(width: 320px) 
 !height: 270px;
 @@||mmiyue.com/zhenbuka2/statics/js/guanggao.js
-!debugger老有毒了，快烦死了都
-zhenbuka2.com$$script[data-src="debugger"]
-zhenbuka2.com#$#body{style="overflow-y:hidden;"!important; }
-zhenbuka2.com###yb112
-zhenbuka2.com#@##ad1
-@@||dns.onenews.vip/alikes.php$domain=zhenbuka2.com
-zhenbuka2.com##img[src^="https://bj.bcebos.com/"]
+zhenbuka3.com$$script[data-src="debugger"]
+zhenbuka3.com#$#body { style="overflow-y:hidden;"!important; }
+zhenbuka3.com###yb112
+zhenbuka3.com#@##ad1
+zhenbuka3.com##div#ad
+@@||dns.onenews.vip/alikes.php$domain=zhenbuka3.com
+https://bj.bcebos.com/im-cs/158007f7fec32833f35541c67793a335.jpg$domain=zhenbuka3.com
 
 !bukaivip
 bukaivip.com#$#body{style="overflow-y:hidden;"!important; }
