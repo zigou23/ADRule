@@ -6,9 +6,10 @@ wenku.baidu.com###index > div.vip-member-pop-content:last-child > div.bottom-pop
 @@||hm.baidu.com/hm.js?77dc9a9d49448cf5e629e5bebaa5500b$domain=icourse163.org
 
 ! Web Video
-! bilibili
+! bilibili 屏蔽登录弹窗
 bilibili.com##.v-popover, .is-bottom
 bilibili.com##.lt-row
+bilibili.com##div.van-popover
 ! 屏蔽视频内icon
 ! 腾讯视频：txp-ui-watermark-mod 爱奇艺：iqp-logo-top logoShowAnimation 优酷： youku-layer-logo
 ! 爱奇艺 ||iqiyipic.com/common/fix/PCH5_iconfont200831/*$domain=iqiyi.com     iqiyi.com##.iqp-logo-top.logoShowAnimation
@@ -145,4 +146,3 @@ bukaivip.com##img[src^="https://bj.bcebos.com/"]
 bukaivip.com##div.tip
 bukaivip.com##iframe#buffer
 bukaivip.com$$script[data-src="debugger"]
-bilibili.com##div.van-popover
