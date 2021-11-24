@@ -145,4 +145,4 @@ bukaivip.com##img[src^="https://bj.bcebos.com/"]
 bukaivip.com##div.tip
 bukaivip.com##iframe#buffer
 bukaivip.com$$script[data-src="debugger"]
-
+bilibili.com##div.van-popover
