@@ -3,13 +3,19 @@ google.com###tads > div.C4eCVc.c:last-child > ol
 
 ! Baidu
 wenku.baidu.com###index > div.vip-member-pop-content:last-child > div.bottom-pop-wrap
-@@||hm.baidu.com/hm.js?77dc9a9d49448cf5e629e5bebaa5500b$domain=icourse163.org
+@@||hm.baidu.com/hm.js
 
 ! Web Video
-! bilibili 屏蔽登录弹窗
+! bilibili
+!屏蔽登录弹窗 未登入访问提示，登入的可能影响弹窗 
 bilibili.com##.v-popover, .is-bottom
 bilibili.com##.lt-row
+!页面左下未登入提示
 bilibili.com##div.van-popover
+!player内左下提示视频登入
+bilibili.com##.bilibili-player-video-toast-item
+!Player内提示三连弹窗(属于用户定义弹窗)
+bilibili.com##.bilibili-player-video-popup-follow
 ! 屏蔽视频内icon
 ! 腾讯视频：txp-ui-watermark-mod 爱奇艺：iqp-logo-top logoShowAnimation 优酷： youku-layer-logo
 ! 爱奇艺 ||iqiyipic.com/common/fix/PCH5_iconfont200831/*$domain=iqiyi.com     iqiyi.com##.iqp-logo-top.logoShowAnimation
