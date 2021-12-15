@@ -5,6 +5,9 @@ google.com###tads > div.C4eCVc.c:last-child > ol
 wenku.baidu.com###index > div.vip-member-pop-content:last-child > div.bottom-pop-wrap
 @@||hm.baidu.com/hm.js
 
+!老毛子mail ad
+||mail.yandex.ru/u2709^
+
 ! Web Video
 ! bilibili
 !屏蔽登录弹窗 未登入访问提示，登入的可能影响弹窗 
@@ -26,9 +29,6 @@ iqiyi.com##iqpdiv[class="iqp-logo-bottom"]
 v.qq.com##txpdiv[data-role="txp-ui-watermark-mod"]
 ! 优酷 ||ykimg.alicdn.com/product/image/2020-06-11/*$domain=v.youku.com
 youku.com##div[class="youku-layer-logo"]
-
-
-
 
 ! 驾考宝典
 jiakaobaodian.com##div.container.mnks-exercise:first-child > div.com-footer-flex-panel:nth-child(7) > div.content-box:first-child
