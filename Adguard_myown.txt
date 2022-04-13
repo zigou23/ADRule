@@ -17,6 +17,8 @@ bilibili.com##.lt-row
 bilibili.com##div.van-popover
 !player内左下提示视频登入
 bilibili.com##.bilibili-player-video-toast-item
+! bilibili P2P节点
+||mcdn.bilibilivideo.cn
 !Player内提示三连弹窗(属于用户定义弹窗)
 bilibili.com##.bilibili-player-video-popup-follow
 ! 屏蔽视频内icon
