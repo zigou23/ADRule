@@ -108,6 +108,16 @@ huya.com###wrap-income > div.IncomeAct.J_IncomeAct > div.IncomeAct-Main.J_Income
 
 m.850500.com##div.alert-marks:nth-child(23)
 @@||gorgon.youdao.com/gorgon/request.s?udid=HFtrHSEVTXxAJxMKdyyUV5rWLinirHYO&id=7f57cbe92d70223f3e1062d99719e9ce&ct=2&reqfrom=web&webos=6&nsv=1.1.3&ran=1&callback=_yad_jsonp_0&_1589949951049$domain=icourse163.org
-
-
 wlan-wwan.com###taobao
+
+! FinalShell
+||www.youtusoft.com^
+||youtusoft.com^
+||hostbuf.com^
+||www.hostbuf.com^
+||dkys.org^
+||tcpspeed.com^
+||www.wn1998.com^
+||wn1998.com^
+||pwlt.wn1998.com^
+||backup.www.hostbuf.com
