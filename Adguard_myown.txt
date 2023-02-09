@@ -80,6 +80,7 @@ jd.com###J_promotional-top
 ||hm.baidu.com^$third-party
 zhuanlan.zhihu.com##div.css-1hwwfws
 zhihu.com##.Modal-enter-done.undefined.Modal-wrapper
+zhihu.com##div[href^="www.zhihu.com/comment"]
 
 !CSDN
 edu.csdn.net###playercontainer > div.bullet-screen:last-child
