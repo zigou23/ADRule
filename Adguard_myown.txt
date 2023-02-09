@@ -74,12 +74,12 @@ w3cschool.cn##div.widget-body:nth-child(7) > div.widget-main
 !购物
 jd.com###J_promotional-top
 
-
 !知乎 去除登录弹窗
 ||zhihu-web-analytics.zhihu.com/api/v*/logs^
 ||zz.bdstatic.com^$third-party
 ||hm.baidu.com^$third-party
 zhuanlan.zhihu.com##div.css-1hwwfws
+zhihu.com##.Modal-enter-done.undefined.Modal-wrapper
 
 !CSDN
 edu.csdn.net###playercontainer > div.bullet-screen:last-child
