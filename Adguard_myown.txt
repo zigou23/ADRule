@@ -74,6 +74,9 @@ w3cschool.cn##div.widget-body:nth-child(7) > div.widget-main
 !购物
 jd.com###J_promotional-top
 
+
+!知乎 去除登录弹窗
+zhihu.com##.Modal-enter-done.undefined.Modal-wrapper
 !CSDN
 edu.csdn.net###playercontainer > div.bullet-screen:last-child
 blog.csdn.net##div.leftPop:nth-child(53)
