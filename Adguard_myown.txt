@@ -76,7 +76,10 @@ jd.com###J_promotional-top
 
 
 !知乎 去除登录弹窗
-zhihu.com##.Modal-enter-done.undefined.Modal-wrapper
+||zhihu-web-analytics.zhihu.com/api/v*/logs^
+||zz.bdstatic.com^$third-party
+||hm.baidu.com^$third-party
+
 !CSDN
 edu.csdn.net###playercontainer > div.bullet-screen:last-child
 blog.csdn.net##div.leftPop:nth-child(53)
